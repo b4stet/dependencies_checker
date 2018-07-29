@@ -36,8 +36,8 @@ In case the build command fails, the binary is also provided in the repo.
 
 ### Result example
 With the composer.lock provided in _testfiles_ folder, you will get the following result:
-![example_excerpt](https://raw.githubusercontent.com/b4stet/composer_checker/master/tests/example1.png)
-![example_excerpt](https://raw.githubusercontent.com/b4stet/composer_checker/master/tests/example2.png)
+![example_excerpt](https://raw.githubusercontent.com/b4stet/dependencies_checker/master/tests/example1.png)
+![example_excerpt](https://raw.githubusercontent.com/b4stet/dependencies_checker/master/tests/example2.png)
 
 If you want to test another composer.lock than the one provided in _testfiles_ folder, you can edit _composer.json_ then update _composer.lock_ using Docker composer image:
 ```
