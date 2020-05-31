@@ -7,7 +7,8 @@ This tool is a *local* checker for dependencies with known vulnerabilities.
 * finally, compares both to report which dependencies in a project embed vulnerable package(s),
 * and print a graph of dependencies to help identify which direct dependencie(s) need to be ugraded.
 
-At the moment, the checker only implements PHP composer dependencies and Sensiolabs DB.
+At the moment, the checker only implements PHP composer dependencies and Sensiolabs DB.  
+__Application broken__ : the rss stream it was using no longer exists.
 
 ### Note about Sensiolabs Security Advisories 
 
