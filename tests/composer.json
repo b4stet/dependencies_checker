@@ -2,7 +2,7 @@
     "require": {
         "symfony/security-csrf": "2.7.39",
         "zetacomponents/mail": "1.6.2",
-        "zendframework/zendframework1": "1.12", 
+        "zendframework/zendframework1": "1.12.4", 
         "ircmaxell/password-compat": "1.0.4"
     }
 }
